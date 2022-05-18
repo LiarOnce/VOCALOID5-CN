@@ -1,0 +1,369 @@
+Origin,Trans
+Shift Lyrics Right(_R),押后歌词(_R)
+Help,帮助
+Emotion Tool,情绪工具
+Select All Control Parameters(_P),选择全部控制点(_P)
+Overwrite style preset?,Overwrite style preset?
+Collapse or Expand Audio Effects Area,收起或展开音频效果区域
+Buffer Size,缓冲区大小
+Do you really want to delete this style preset? This action cannot be undone.,Do you really want to delete this style preset? This action cannot be undone.
+Invalid Name.,Invalid Name.
+Cancel,取消
+The following audio files cannot be found.,找不到以下音频文件。
+Failed to delete tempo.,Failed to delete tempo.
+The sequence data is optimized for the current version of VOCALOID5 Editor.,The sequence data is optimized for the current version of VOCALOID5 Editor.
+Undo,撤销
+Convert Phonemes to Match Language,发音符号匹配
+Check for Updates,检查更新
+Tag Name,Tag Name
+Can not resize part.,Can not resize part.
+Installation Complete.,安装完成。
+Scissors,切分
+Failed to add Audio track.,Failed to add Audio track.
+Check for Installation Status...,检查安装状态...
+Failed to duplicate Panpot.,Failed to duplicate Panpot.
+Failed to move Tempo.,Failed to move Tempo.
+Failed to initialize Lua Manager.,Failed to initialize Lua Manager.
+Arrow,指针
+Download New Content,下载新附件
+Failed to set repeat playback section.,Failed to set repeat playback section.
+Select All Master Volumes(_M),选择全部主控音量点(_M)
+  (remaining {0} voices),  (remaining {0} voices)
+Please close all open VOCALOID windows before opening sequence file.,Please close all open VOCALOID windows before opening sequence file.
+Failed to addd Track.,Failed to addd Track.
+Failed to resize VOCALOID Part.,Failed to resize VOCALOID Part.
+Letter Mode,字符模式
+Add VOCALOID Track(_V),添加VOCALOID轨道（_V）
+Failed to add VOCALOID track.,Failed to add VOCALOID track.
+New Voice,New Voice
+Failed to move Audio part.,Failed to move Audio part.
+Repeat,重复
+Failed to launch VOCALOID Authorizer.,Failed to launch VOCALOID Authorizer.
+Failed to open file.,Failed to open file.
+Import Tempo And Beat...,输入节奏和节拍…
+Failed to delete Panpot.,Failed to delete Panpot.
+Failed to shift pitch. Error ,Failed to shift pitch. Error 
+https://www.vocaloid.com/en,https://www.vocaloid.com/en
+Sequence Files|*.mid;*.midi;*.vsqx;*.vpr|SMF|*.mid;*.midi|VOCALOID3/VOCALOID4|*.vsqx|VOCALOID5|*.vpr,Sequence Files|*.mid;*.midi;*.vsqx;*.vpr|SMF|*.mid;*.midi|VOCALOID3/VOCALOID4|*.vsqx|VOCALOID5|*.vpr
+Copy(_C),复制(_C)
+Open...,打开
+Failed to initialize Lua Controller.,Failed to initialize Lua Controller.
+Add Audio Track(_W),添加音轨(_W)
+Stop,停止
+Default Voice,默认声库
+Failed to add note.,Failed to add note.
+Original Voice,Original Voice
+Export...,导出...
+Failed to duplicate Master Volume.,Failed to duplicate Master Volume.
+Bypass Effect Plug-ins,旁路效果器
+Failed to perform multichannel audio mixdown.,Failed to perform multichannel audio mixdown.
+Preferences...,全局设置...
+Delete Style Presets(_D),删除Style预设(_D)
+Audio Engine Output,音频输出参数
+-,-
+Customize Shortcuts,自定义快捷键
+New Style Preset Name,New Style Preset Name
+Failed to paste.,Failed to paste.
+Quit VOCALOID5 Editor,退出VOCALOID5编辑器
+A style preset with this name already exists. It cannot be overwritten.,A style preset with this name already exists. It cannot be overwritten.
+Failed to move TimeSig.,Failed to move TimeSig.
+Failed to initialize VSM.,Failed to initialize VSM.
+Lyric Input Mode,歌词输入模式
+Failed to add Tempo.,Failed to add Tempo.
+"Save the changes? If not, the changes are lost.","Save the changes? If not, the changes are lost."
+Update Now (Launch Browser),马上更新(打开浏览器)
+A media file with this name already exists. It cannnot be overwritten.,媒体文件已存在，它不能被覆盖
+Failed to add control parameter.,Failed to add control parameter.
+Save As,Save As
+Name Empty.,Name Empty.
+Export to Audio File...,导出音频文件...
+Failed to duplicate Tempo.,Failed to duplicate Tempo.
+https://www.vocaloid.com/en/learn,https://www.vocaloid.com/en/learn
+Failed to initialize Media Manager.,Failed to initialize Media Manager.
+Edit,编辑
+Failed to divide VOCALOID Part.,Failed to divide VOCALOID Part.
+AudioDevice not found.,AudioDevice not found.
+TimeSig View,节奏轨
+AudioDevice changed.,AudioDevice changed.
+Import File...,导入文件...
+Failed to move VOCALOID part.,Failed to move VOCALOID part.
+Failed to perform Half Tempo.,Failed to perform Half Tempo.
+About VOCALOID5 Editor...,关于VOCALOID5编辑器
+VOCALOID5 Sequence|*.vpr,VOCALOID5 Sequence|*.vpr
+Getting content information.,获取内容信息。
+Failed to divide Audio part.,Failed to divide Audio part.
+Tag Name,标签名
+Robot Voice could not be found.,Robot Voice could not be found.
+Mixer,混音器
+Installed Products,安装的产品
+Failed to mix down audio.,Failed to mix down audio.
+The Wav file could not be loaded.,The Wav file could not be loaded.
+Audio,音频
+Show or Hide Lower Zone,显示或隐藏下部区域
+Failed to perform time stretch. Error ,Failed to perform time stretch. Error 
+Timeout Wait Time (sec),超时等待时间(秒)
+Measure Offset,小结数偏移
+Select All Notes(_N),选择全部音符(_N)
+Do you want to save this sequence?,Do you want to save this sequence?
+Default Singing Skill could not be found.,Default Singing Skill could not be found.
+Edit Style Preset Properties(_E),编辑Style预设属性(_E)
+Open Recent...,打开最近文件...
+Metronome,节拍器
+Insert Lyrics,Insert Lyrics
+Download New Content...,下载新附件...
+Phoneme Lock(_P),锁定音素(_P)
+Save As...,另存为...
+Set start marker to song position(_S),标记当前位置为起始点(_S)
+Media Name,媒体名称
+Play,播放
+Normalize Audio Wave(_N),标准化声音(_N)
+Sampling Rate,音频采样率
+Save Style,Save Style
+Add,Add
+View,显示
+Part Name,Part Name
+OK,确定
+Edit Style Preset Properties,Edit Style Preset Properties
+Job,Job
+Bit,位
+Tempo View,曲速轨
+Failed to add VOCALOID part.,Failed to add VOCALOID part.
+Duplicate(_D),复制(_D)
+"No voice has been installed.
+
+The VOCALOID5 Editor requires at least one installed voice to launch.
+
+Please installl one separately.","No voice has been installed.
+
+The VOCALOID5 Editor requires at least one installed voice to launch.
+
+Please installl one separately."
+Add VOCALOID Track,添加VOCALOID轨道
+Relaunch VOCALOID5 Editor to apply changes.,重启VOALOID5编辑器以便令修改生效.
+Failed to import file.,Failed to import file.
+Failed to delete media.,Failed to delete media.
+Delete Audio Effect(_D),删除音频效果(_D)
+Copy,复制
+MIDI Device,MIDI设备
+Failed to set audio device.,Failed to set audio device.
+Failed to initialize G2PA Manager.,Failed to initialize G2PA Manager.
+Failed to save file. VOCALOID5 project size exceeds 2GB.,Failed to save file. VOCALOID5 project size exceeds 2GB.
+Auto Scroll,自动混动
+MIDIPart Property,MIDIPart Property
+Add Audio part to Media(_M)...,将音频段落添加到媒体库（_M）...
+"VOCALOID5 Editor cannot launch because the VOCALOID 5 Standalone Version, VSTi Version, or AU Version is already running.","VOCALOID5 Editor cannot launch because the VOCALOID 5 Standalone Version, VSTi Version, or AU Version is already running."
+Style is not Selected.,Style is not Selected.
+The file name contains invalid characters.,The file name contains invalid characters.
+Failed to move track.,Failed to move track.
+Reference Manual,操作手册
+Check for editor updates upon launch.,启动时检查编辑器更新.
+Double Tempo,加速一倍
+Add VOCALOID Part to Media,添加VOCALOID段落到媒体库
+Failed to add TimeSig.,Failed to add TimeSig.
+"VOCALOID5 Editor not authorized.
+
+Please enter a valid VOCALOID5 serial number into the VOCALOID Authorizer.
+
+Authorize now?
+
+(Clicking [Yes] will launch the VOCALOID Authorizer.)",VOCALOID5 Editor 没有激活.\r\n请在激活器中输入序列号激活.\r\n现在激活么?\r\n(点击 [是] 运行 VOCALOID 激活器.)
+Join VOCALOID Parts(_J),合并VOCALOID序列(_J)
+Add Audio Part to Media,添加音频部分到媒体库
+Insert Lyrics...,输入歌词...
+An archive entry was not found or was corrupt.,An archive entry was not found or was corrupt.
+"Please authorize the voice using the Activate app that corresponds to the version of the voice.
+(Voicebanks whose authorization grace periods have expired will not play.)
+
+Please see the corresponding product's manual for authorization instructions.","Please authorize the voice using the Activate app that corresponds to the version of the voice.
+(Voicebanks whose authorization grace periods have expired will not play.)
+
+Please see the corresponding product's manual for authorization instructions."
+Join VOCALOID Parts,连接VOCALOID序列
+Audio Mixdown of part,序列混音
+Duplicate,复制并粘贴
+Create Part on Song Position(_P),在当前位置创建序列(_P)
+View,显示
+Import tempo and time sig?,Import tempo and time sig?
+Failed to duplicate TimeSig.,Failed to duplicate TimeSig.
+Failed to duplicate VOCALOID Part.,Failed to duplicate VOCALOID Part.
+Failed to move Track Volume.,Failed to move Track Volume.
+Tutorial,新手教学
+"The edited data will be discarded.
+This action cannot be undone.
+Do you wish to continue?","The edited data will be discarded.
+This action cannot be undone.
+Do you wish to continue?"
+Redo,重复
+Scissors(_S),切分(_S)
+Failed to save media.,Failed to save media.
+Customize Shortcuts,自定义快捷键
+Failed to initialize Database Manager.,Failed to initialize Database Manager.
+English,英语
+Show or Hide Control Parameters Area,显示或隐藏控制参数区域
+Failed to delete Track Volume.,Failed to delete Track Volume.
+Don't check for updates upon launch.,不再检查更新
+Audio Mixdown,混音
+Export to Audio File(_E)...,导出到音频文件(_E)…
+Untitled,Untitled
+Failed to copy.,Failed to copy.
+Failed to initialize user configuration file. VOCALOID5 Editor will now close.,Failed to initialize user configuration file. VOCALOID5 Editor will now close.
+note,note
+A file with this name already exists. Overwrite existing file?,"文件已存在,要覆盖么?"
+Cannot add more tracks. Track count is at the limit.,Cannot add more tracks. Track count is at the limit.
+Add New Type,Add New Type
+Preferences,全局设置
+Add Audio Part to Media...,添加音频段落到媒体库
+VOCALOID Sequence|*.vpr;*.vsqx|All Files|*.*,VOCALOID Sequence|*.vpr;*.vsqx|All Files|*.*
+Japanese,日语
+Set end marker to song position(_E),标记当前位置为结束点(_E)
+Stereo Out R,立体声输出 R
+No track selected.,No track selected.
+Delete,删除
+Check for new content upon launch.,启动时检查附件更新.
+Failed to initialize Style Manager.,Failed to initialize Style Manager.
+Audio Track Color,声音轨道颜色
+Voice Bank used in project not installed.,Voice Bank used in project not installed.
+Changed to installed Voice Bank.,Changed to installed Voice Bank.
+Audio Mixdown,混音
+VOCALOID5 Editor,VOCALOID5 Editor
+Cut(_T),切(_T)
+Failed to move Master Volume.,Failed to move Master Volume.
+Phonetic Symbol Mode,发音符号模式
+Track Selection,音轨选择
+Failed to initialize DSE.,Failed to initialize DSE.
+Failed to get content information.,获取内容信息失败。
+Audio Mixdown...,混音...
+Select All Time Signatures(_T),选择全部节奏(_T)
+Failed to resize Audio part.,Failed to resize Audio part.
+Edit Media Properties(_E),编辑媒体属性(_E)
+Failed to cut.,Failed to cut.
+Sampling Rate,音频采样率
+"Fatal Error: Failed to write synthesized audio file.
+
+Please save your project under a different name and then relaunch the application.","Fatal Error: Failed to write synthesized audio file.
+
+Please save your project under a different name and then relaunch the application."
+Cut,剪切
+Add Audio Effect(_A),添加音频效果(_A)
+Server Error.,Server Error.
+Your software is up to date.,已经是新版本
+Select All,全选
+Activate VOCALOID5 products.,Activate VOCALOID5 products.
+Failed to add Audio part.,Failed to add Audio part.
+Add New Genre,Add New Genre
+Add New Color,Add New Color
+Add VOCALOID Part to Media...,添加VOCALOID段落到媒体库…
+Media Pasting Key Transposition Settings,Media Pasting Key Transposition Settings
+Failed to delete control parameter.,Failed to delete control parameter.
+Remind Me Later,以后提示我
+Are you sure you want to delete this media? This action cannot be undone.,Are you sure you want to delete this media? This action cannot be undone.
+Check for Updates...,检查更新...
+Failed to initialize Audio Engine.,Failed to initialize Audio Engine.
+The user configuration file will be initialized because it is corrupted.,The user configuration file will be initialized because it is corrupted.
+Connecting to ReWire.,连接到ReWire.
+Edit Media Properties,编辑媒体属性
+Failed to get updater information.,获取更新信息失败
+Installation Interrupted.,安装中断。
+"VOCALOID5 Editor not authorized.
+
+Please enter a valid VOCALOID5 serial number into the VOCALOID Authorizer.
+
+(Clicking [OK] will launch the VOCALOID Authorizer.)",VOCALOID5 Editor 没有激活.\r\n请在激活器中输入序列号激活.\r\n现在激活么?\r\n(点击 [是] 运行 VOCALOID 激活器.)
+Freeze,Freeze
+Quantize,小节
+Shift Lyrics Left(_L),提前歌词(_L)
+Failed to optimize sequence data for the current version of VOCALOID5 Editor.,Failed to optimize sequence data for the current version of VOCALOID5 Editor.
+The following voice has not been authorized.,The following voice has not been authorized.
+Failed to edit note.,Failed to edit note.
+Voice Bank not installed,Voice Bank not installed
+Update now?,现在更新么?
+A new version of VOCALOID5 Editor is available to download.,发现新版本的VOCALOID5 Editor可被下载
+"Cannot add more tracks.
+The track count is at the limit.","Cannot add more tracks.
+The track count is at the limit."
+Close,关闭
+File,文件
+API Error.,API Error.
+Preventing double start,Preventing double start
+Failed to perform Double Tempo.,Failed to perform Double Tempo.
+Normalize Audio Wave,标准化声音
+Master Volume View,主控音量轨
+Failed to delete.,Failed to delete.
+Stereo Out L,立体声输出 L
+Reset Lyrics(_R),重置歌词(_R)
+Setting,设定
+Control Panel,控制面板
+Audio Device,音频设备
+Customize Shortcuts,自定义快捷键
+Add VOCALOID part to Media(_M)...,添加VOCALOID段落到媒体(_M)…
+This application is already running.,This application is already running.
+Arrow(_A),箭头(_A)
+Attack & Release Effect,启停效果
+Failed to perform partial audio mixdown.,Failed to perform partial audio mixdown.
+Half Tempo,减速一倍
+Record,录音
+Setting,设定
+Failed to move Panpot.,Failed to move Panpot.
+(New),(New)
+New(_N),新建(_N)
+Open News...,查看最新资讯...
+Additional VOCALOID5 content is available to download.,Additional VOCALOID5 content is available to download.
+Add New Color,添加新类型
+Repeat(_R),重复(_R)
+Master Track,主音轨
+Add New Type,添加新分类
+Select All(_A),全选(_A)
+None,None
+VOCALOID Track Color,VOCALOID轨道颜色
+Paste(_P),粘贴(_P)
+Delete Media(_D),删除媒体(_D)
+The path name is too long.,The path name is too long.
+New,新建
+Network Error.,Network Error.
+"Please enter the applicable serial number for this voice into the VOCALOID Authorizer.
+(Voicebanks whose authorization grace periods have expired will not play.)
+
+Authorize now?
+
+(Clicking [Yes] will launch the VOCALOID Authorizer.)",请在激活器中输入序列号激活.\r\n现在激活么?\r\n(点击 [是] 运行 VOCALOID 激活器.)
+Failed to edit control parameter.,Failed to edit control parameter.
+SMF|*.mid;*.midi,SMF|*.mid;*.midi
+Audio file cannot be found.,无法找到音频文件。
+Failed to export Audio File this place. : Error ,Failed to export Audio File this place. : Error 
+Failed to delete style preset.,Failed to delete style preset.
+vocaloid.com,vocaloid.com
+Failed to duplicate Track Volume.,Failed to duplicate Track Volume.
+Pencil,铅笔
+Installation Error.,Installation Error.
+About VOCALOID5 Editor,关于VOCALOID5编辑器
+Failed to delete Master Volume.,Failed to delete Master Volume.
+Pencil(_P),铅笔(_P)
+Failed to add Panpot.,Failed to add Panpot.
+https://rsc-net.vocaloid.com/assets/pdf_files/VOCALOID5_Reference_Manual_ENG.pdf,https://rsc-net.vocaloid.com/assets/pdf_files/VOCALOID5_Reference_Manual_ENG.pdf
+Failed to reverse audio wave. Error ,Failed to reverse audio wave. Error 
+This name contains space.,This name contains space.
+Failed to add Track Volume.,Failed to add Track Volume.
+Max:,Max:
+Media,媒体库
+Sound Preview,声音预览
+Frailed to duplicate Track.,Frailed to duplicate Track.
+Add Audio Track,添加声音轨道
+Paste,粘贴
+MSD and Export to WAV(_W)...,MSD并且导出到WAV文件(_W)...
+Multichannel,选择音轨
+Breath,呼吸
+Failed to save style preset file.,Failed to save style preset file.
+Edit Part Name,编辑序列名
+Add,添加
+Select All Tempos(_T),选择全部曲速(_T)
+Failed to save sequence file.,Failed to save sequence file.
+Save,保存
+Delete(_D),删除(_D)
+Bit Depth,音频位深
+Return to Start position on Stop,停止时回到起始点
+Customize Shortcuts...,自定义快捷键...
+Wave File|*.wav|All Files|*.*,Wave File|*.wav|All Files|*.*
+Failed to duplicate Audio part.,Failed to duplicate Audio part.
+Getting Updater Information.,获取到更新信息。
+Failed to add Master Volume.,Failed to add Master Volume.
+Failed to Freeze.,Failed to Freeze.

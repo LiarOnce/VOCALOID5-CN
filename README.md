@@ -5,7 +5,12 @@ zh-CN Translation for VOCALOID 5 (ALL Version)
 
 ## 如何使用
 
-使用 [UniTranslator](https://github.com/UlyssesWu/BAML-Translator/releases) 导入汉化结果（vocaloid.csv），之后处理程序集并保存即可。
+使用 [UniTranslator](https://github.com/UlyssesWu/BAML-Translator/releases) 导入以下其中一个汉化结果，之后处理程序集并保存即可，但在导入前请先在 **选项 -->取消勾选`翻译 BAML`和`翻译硬编码文本`，后勾选`翻译资源文本`** ：
+
+|              文件               |                             详情                             |
+| :-----------------------------: | :----------------------------------------------------------: |
+| vocaloid5-import-from-5.5.0.csv | 该汉化文件提取自以前版本大佬的5.5.0汉化，部分内容未汉化且导入到目前新版本时不一定准确，可能需要自行修正 |
+| vocaloid5-machine-translate.csv |                该汉化文件基于最新版本完全机翻                |
 
 ## 如何贡献
 
@@ -15,7 +20,7 @@ zh-CN Translation for VOCALOID 5 (ALL Version)
 
 ### 1.翻译水平如何？
 
-仅仅只是简单机翻，能勉强看懂的水平，若不满意可自行更正
+能勉强看懂的水平，若不满意可自行更正
 
 ### 2.为什么没有发布已经完成的文件？
 
