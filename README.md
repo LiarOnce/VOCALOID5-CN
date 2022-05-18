@@ -5,7 +5,7 @@ zh-CN Translation for VOCALOID 5 (ALL Version)
 
 ## 如何使用
 
-使用 [UniTranslator](https://github.com/UlyssesWu/BAML-Translator/releases) 打开 `VOCALOID5.exe` 或 `VOCALOID5.dll` 并导入以下其中一个汉化结果，之后处理程序集并保存即可，但在导入前请先在 **选项 -->取消勾选`翻译 BAML`和`翻译硬编码文本`，后勾选`翻译资源文本`** ：
+使用 [UniTranslator](https://github.com/UlyssesWu/BAML-Translator/releases) 打开 `VOCALOID5.exe` 或 `VOCALOID5.dll` 并导入以下其中一个汉化结果，之后处理程序集并保存即可，但在导入前请先在 **选项 -->取消勾选`翻译 BAML`和`翻译硬编码文本`，后勾选`翻译资源文本`，之后在类型中输入 `Resource` 过滤** ：
 
 |              文件               |                             详情                             |
 | :-----------------------------: | :----------------------------------------------------------: |
